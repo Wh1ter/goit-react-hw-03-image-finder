@@ -8,7 +8,7 @@ import ImageGallery from "./ImageGallery/ImageGallery";
 import Button from "./Button/Button";
 import Modal from "./Modal/Modal";
 
-const apiKey = "20461350-36527ad634bc0878b1b72e118";
+const apiKey = "20657589-854090d30ce3dd05c36692501";
 
 class App extends Component {
   state = {
